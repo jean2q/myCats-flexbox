@@ -1,0 +1,21 @@
+.flex-header{
+	display: flex;
+	justify-content: space-between;
+  padding:0 100px;
+  color: #f9faf8;
+}
+.flex-list
+.flex-list ul{
+  display:flex;
+  gap:15px;
+}
+.flex-list li {
+	list-style: none;
+}
+.flex-header,
+.hero {
+	background-color: #1f2937;
+}
+.header-logo h3 {
+	font-size: 24px;
+}
